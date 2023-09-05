@@ -22,6 +22,13 @@ Reflexion: Ich habe heute vieles gelernt, zBs wie man if else benutzt, was die m
 
 ## Arbeitspakete für 05.09.2023
 
-- [ ] Ich möchte die [Beginner Videos](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) von Microsoft fertig schauen
-- [ ] Ich möchte ein Programm schreiben das Schere, Stein, Papier mit mir spielt.
+- [x] Ich möchte die [Beginner Videos](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) von Microsoft fertig schauen
+- [x] Ich möchte ein Programm schreiben das Schere, Stein, Papier mit mir spielt.
 
+Reflexion: Ich habe alle Videos angeschaut und einiges Neues gelernt. Ausserdem habe ich ein .txt Dokument erstellt, um alle wichtigen Informationen festzuhalten, die ich heute und auch letztes Mal gelernt habe. Auch habe ich mich mit verschiedenen Datentypen und der if-else-Funktion vertieft.
+Den Anfang des Schere-Stein-Papier-Programms habe ich bereits geschrieben, konnte es aber leider nicht fertigstellen, da ich auf einige Probleme mit der if-else-Funktion stiess. Nächstes mal werde ich das Programm abschliessen.
+
+## Arbeitspakete für 12.09.2023
+
+- [] Ich möchte das angefangene Schere-Stein-Papier-Programm abschliessen.
+- [] Ich möchte mir einen Überblick über C# verschaffen und diesen Text über [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) lesen.
