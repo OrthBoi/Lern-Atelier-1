@@ -30,5 +30,25 @@ Den Anfang des Schere-Stein-Papier-Programms habe ich bereits geschrieben, konnt
 
 ## Arbeitspakete für 12.09.2023
 
-- [] Ich möchte das angefangene Schere-Stein-Papier-Programm abschliessen.
+- [x] Ich möchte das angefangene Schere-Stein-Papier-Programm abschliessen.
 - [] Ich möchte mir einen Überblick über C# verschaffen und diesen Text über [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) lesen.
+
+Reflexion: Ich habe das angefangene Program abgeschlossen und mithilfe von do-when, try-catch und if-else Kontrollstrukturen eingebaut, damit man keine Texte und keine Zahlen über 3 und/oder unter 1 eingeben kann. Ich habe die Website über die C# Basics angeschaut aber schnell bemerkt das ich vieles der Informationen bereits kenne und verstehe oder das die Informationen viel zu fortgeschritten für mein jetziges Niveau sind um profitable zu sein. Also habe ich stattdessen im Modul 319 an der Aufgabe Kontrollsturkturen weitergearbeitet und dort guten Progress erzielt und mein Wissen über Kontrollstrukturen somit vertieft.
+
+## Arbeitspakete für 19.09.2023
+
+- [ ] Da ich Kontrollstrukturen und booleans noch nicht zu 100% verstehe und diese mir manchmal Ärger machen, will ich diese gründlicher erlernen. Als erstes schaue ich mich dazu noch alle vorherigen PowerPoint Präsentationen an, studiere meine abgeschlossenen Applikationen und notiere mir das wichtigste
+
+## Programm 1
+- [ ] Danach will ich ein Programm schreiben, wo der User eine Zahl von 1-10 erraten soll, die jedes mal wenn der User eine falsche Antwort gibt um 2 vergrössert wird.
+- [ ] Nachdem will ich eine Zeit Limit einbauen, welches man selber einstellen kann. Wenn der User die Zahl errät werden die Anzahl Versuche und die verbleibende Zeit angezeigt.
+
+## Programm 2
+- [ ] Mein Zweites Programm soll ein Cookie "Clicker" sein. Wenn der User x auf der Tastatur drückt bekommt er dafür Cookies
+- [ ] Ausserdem kann der User Upgrades wie zBs. Doppelte Punkte kaufen oder automatisches Klicken das ihm x Cookies pro Sekunde gibt.
+
+| Programm | Eingabe    | Verarbeitung       | Ausgabe        |
+|----------|------------|--------------------|----------------|
+| 1        | Zeit Limit | Erratene Zahl      | True/False     |
+|----------|------------|--------------------|----------------|
+| 2        | Taste x    | Cookies Hinzufügen | Anzahl cookies |
