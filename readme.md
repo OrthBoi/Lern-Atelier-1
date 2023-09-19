@@ -40,7 +40,7 @@ Reflexion: Ich habe das angefangene Program abgeschlossen und mithilfe von do-wh
 - [ ] Da ich Kontrollstrukturen und booleans noch nicht zu 100% verstehe und diese mir manchmal Ärger machen, will ich diese gründlicher erlernen. Als erstes schaue ich mich dazu noch alle vorherigen PowerPoint Präsentationen an, studiere meine abgeschlossenen Applikationen und notiere mir das wichtigste
 
 ## Programm 1
-- [ ] Danach will ich ein Programm schreiben, wo der User eine Zahl von 1-10 erraten soll, die jedes mal wenn der User eine falsche Antwort gibt um 2 vergrössert wird.
+- [x] Danach will ich ein Programm schreiben, wo der User eine Zahl von 1-10 erraten soll, die jedes mal wenn der User eine falsche Antwort gibt um 2 vergrössert wird.
 - [ ] Nachdem will ich eine Zeit Limit einbauen, welches man selber einstellen kann. Wenn der User die Zahl errät werden die Anzahl Versuche und die verbleibende Zeit angezeigt.
 
 ## Programm 2
@@ -52,3 +52,14 @@ Reflexion: Ich habe das angefangene Program abgeschlossen und mithilfe von do-wh
 | 1        | Zeit Limit | Erratene Zahl      | True/False     |
 |----------|------------|--------------------|----------------|
 | 2        | Taste x    | Cookies Hinzufügen | Anzahl cookies |
+
+Reflexion: Heute habe ich relativ wenig von dem erreicht was ich mir vorgenommen habe. Ich dachte das ich alle Aufträge relativ schnell und problemlos programmieren könnte, nun weiss ich aber wie lange ein Auftrag ungefähr dauert. Den Cookie Clicker habe ich gar nicht angefangen, zum glück auch da es ein sehr langweiliges Programm wäre. Den Number Guesser habe ich abgeschlossen und habe sogar mehr Funktionen als geplnat eingebaut (Scoreboard, Wiederholung, frage ob der User weiter spielen will), dafür habe ich das Zeit Limit (noch) nicht eingebaut. (78 Wörter)
+
+## Arbeitspakete für 26.09.2023
+
+- [ ] Ich will den Number Guesser vom letzten Mal abschliessen (begrenzte Zeit hinzufügen)
+- [ ] Ich will ein Programm programmieren mit welchem man Mathe Aufgaben üben kann ( + - * / ), der User kann angeben wie klein/gross die Zahlen sein sollen womit gerechnet wird.
+      Am Ende wird die Punktzahl und Note berechnet. Ausserdem soll es eine "Notizen" funktion geben die man ausrufen kann womit man Notizen schreiben/bearbeiten kann.
+
+
+  
