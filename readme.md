@@ -37,7 +37,7 @@ Reflexion: Ich habe das angefangene Program abgeschlossen und mithilfe von do-wh
 
 ## Arbeitspakete für 19.09.2023
 
-- [ ] Da ich Kontrollstrukturen und booleans noch nicht zu 100% verstehe und diese mir manchmal Ärger machen, will ich diese gründlicher erlernen. Als erstes schaue ich mich dazu noch alle vorherigen PowerPoint Präsentationen an, studiere meine abgeschlossenen Applikationen und notiere mir das wichtigste
+- [x] Da ich Kontrollstrukturen und booleans noch nicht zu 100% verstehe und diese mir manchmal Ärger machen, will ich diese gründlicher erlernen. Als erstes schaue ich mich dazu noch alle vorherigen PowerPoint Präsentationen an, studiere meine abgeschlossenen Applikationen und notiere mir das wichtigste
 
 ## Programm 1
 - [x] Danach will ich ein Programm schreiben, wo der User eine Zahl von 1-10 erraten soll, die jedes mal wenn der User eine falsche Antwort gibt um 2 vergrössert wird.
@@ -53,7 +53,7 @@ Reflexion: Ich habe das angefangene Program abgeschlossen und mithilfe von do-wh
 |----------|------------|--------------------|----------------|
 | 2        | Taste x    | Cookies Hinzufügen | Anzahl cookies |
 
-Reflexion: Heute habe ich relativ wenig von dem erreicht was ich mir vorgenommen habe. Ich dachte das ich alle Aufträge relativ schnell und problemlos programmieren könnte, nun weiss ich aber wie lange ein Auftrag ungefähr dauert. Den Cookie Clicker habe ich gar nicht angefangen, zum glück auch da es ein sehr langweiliges Programm wäre. Den Number Guesser habe ich abgeschlossen und habe sogar mehr Funktionen als geplnat eingebaut (Scoreboard, Wiederholung, frage ob der User weiter spielen will), dafür habe ich das Zeit Limit (noch) nicht eingebaut. (78 Wörter)
+Reflexion: Heute habe ich relativ wenig von dem erreicht was ich mir vorgenommen habe. Ich dachte das ich alle Aufträge relativ schnell und problemlos programmieren könnte, nun weiss ich aber wie lange ein Auftrag ungefähr dauert. Ich habe schin letzte Woche beim Üben meine Kenntnise mit booleans und und Kontrollstrukturen vertieft, Den Cookie Clicker habe ich gar nicht angefangen, zum glück auch da es ein sehr langweiliges Programm wäre. Den Number Guesser habe ich abgeschlossen und habe sogar mehr Funktionen als geplnat eingebaut (Scoreboard, Wiederholung, frage ob der User weiter spielen will), dafür habe ich das Zeit Limit (noch) nicht eingebaut. (78 Wörter)
 
 ## Arbeitspakete für 26.09.2023
 
