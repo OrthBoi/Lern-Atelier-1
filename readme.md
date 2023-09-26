@@ -58,8 +58,14 @@ Reflexion: Heute habe ich relativ wenig von dem erreicht was ich mir vorgenommen
 ## Arbeitspakete für 26.09.2023
 
 - [ ] Ich will den Number Guesser vom letzten Mal abschliessen (begrenzte Zeit hinzufügen)
-- [ ] Ich will ein Programm programmieren mit welchem man Mathe Aufgaben üben kann ( + - * / ), der User kann angeben wie klein/gross die Zahlen sein sollen womit gerechnet wird.
+- [] Ich will ein Programm programmieren mit welchem man Mathe Aufgaben üben kann ( + - * / ), der User kann angeben wie klein/gross die Zahlen sein sollen womit gerechnet wird.
       Am Ende wird die Punktzahl und Note berechnet. Ausserdem soll es eine "Notizen" funktion geben die man ausrufen kann womit man Notizen schreiben/bearbeiten kann.
 
+Reflexion: Heute habe ich relativ unfokusiert gearbeitet, den Number Guesser habe ich nicht abgeschlossen, weil ich lieber ein neues Projekt anfangen wollte und mich in Arrays vertiefen wollte, dazu bin ich heute aber noch nicht gekommen. Ich habe heute die Infrastruktur des Mathe Programms geschrieben, jetz muss ich noch das zufällige Generieren von Zahlen coden, herausfinden wie ich die Informationen speichern will und wie ich es am ende ausgeben will. 
+Das alles werde ich in den Ferien Zuhause abschliessen (70 Wörter)
 
-  
+## Reflexion Projekt
+
+Ich habe die Basics von C# gelernt und kann einfache Programme schreiben. An den Modulen habe ich in der Lern Periode überhaupt nicht gearbeitet, stattdessen habe ich mich aufs Coden konzentriert. Mein ePortfolio habe ich auch noch nicht angefangen und muss das in den Ferien nachholen. Insgesamt hatte ich Fünf Arbeitstage, an den meisten Tagen habe ich Programmiert ausser am ersten Tag, da habe ich auf der Microsoft Seite C# Basics angeschaut die sehr nützlich waren. Am Zweiten Tag habe ich Schere Stein Papier Programmiert welches mein erstes Spiel ist. Am dritten Tag habe ich das angefangene Spiel zu ende programmiert und viel features hinzugefügt. Am vierten Tag habe ich den Random Number Guesser programmiert welche nich dannach Zuhause fertig programmierte und am letzten Tag habe ich das Mathe Lern Spiel angefangen und die basic Infrastruktur des Spiels geschrieben. 
+Meisten habe ich konzentriert gearbeitet, aber besonders am letzten Tag war ich sehr unkonzentriert. Ich habe festgestellt das ich mit Kopfhörern viel konzentrierter arbeite, da ich mich weniger ablenken lasse, deswegen werde ich für die nächsten Male immer Kopfhörer mitnehmen. Ausserdem werde ich probieren auch mal draussen alleine zu programmieren, da ich denke dass ich manchmal von meinen Kollegen abgelenkt werde.
+(201 Wörter)
