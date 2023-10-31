@@ -83,4 +83,12 @@ In diesem Zeitraum möchte ich mein Wissen vertiefen und grössere Programme sch
 
 
 ## Arbeitspakete für 31.10.2023
-[ ] Ich möchte ein Tic Tac Toe Spiel programmieren.
+- [x] Ich möchte ein Tic Tac Toe Spiel programmieren.
+
+Reflexion: Ich habe ein wenig unkonzentriert gearbeitet, weil ich noch ein bisschen Krank bin. Trotzdem habe ich das Tic Tac Toe Spiel fertig programmiert. Alles funktioniert wie ich es mir vorgestellt habe. 
+Ich habe gelernt wie ich mit Unterstrings arbeite und diese in ein Haupt-String zusammenfassen kann.
+
+## Arbeitspakete für 7.11.2023
+- [ ] Ich möchte einen Taschenrechner programmieren
+- [ ] Ich möchte ein Programm schreiben, in das man Vocabeln eingeben kann und abgefragt wird.
+- [ ] Ich möchte bei meinem Tic Tac Toe Programm Farben hinzufügen. X soll rot sein und O blau.
