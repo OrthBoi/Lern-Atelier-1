@@ -69,3 +69,18 @@ Das alles werde ich in den Ferien Zuhause abschliessen (70 Wörter)
 Ich habe die Basics von C# gelernt und kann einfache Programme schreiben. An den Modulen habe ich in der Lern Periode überhaupt nicht gearbeitet, stattdessen habe ich mich aufs Coden konzentriert. Mein ePortfolio habe ich auch noch nicht angefangen und muss das in den Ferien nachholen. Insgesamt hatte ich Fünf Arbeitstage, an den meisten Tagen habe ich Programmiert ausser am ersten Tag, da habe ich auf der Microsoft Seite C# Basics angeschaut die sehr nützlich waren. Am Zweiten Tag habe ich Schere Stein Papier Programmiert welches mein erstes Spiel ist. Am dritten Tag habe ich das angefangene Spiel zu ende programmiert und viel features hinzugefügt. Am vierten Tag habe ich den Random Number Guesser programmiert welche nich dannach Zuhause fertig programmierte und am letzten Tag habe ich das Mathe Lern Spiel angefangen und die basic Infrastruktur des Spiels geschrieben. 
 Meisten habe ich konzentriert gearbeitet, aber besonders am letzten Tag war ich sehr unkonzentriert. Ich habe festgestellt das ich mit Kopfhörern viel konzentrierter arbeite, da ich mich weniger ablenken lasse, deswegen werde ich für die nächsten Male immer Kopfhörer mitnehmen. Ausserdem werde ich probieren auch mal draussen alleine zu programmieren, da ich denke dass ich manchmal von meinen Kollegen abgelenkt werde.
 (201 Wörter)
+
+
+# Grob-Planung
+
+**Maxim Kohanov**
+
+Diese Grobe Planung giltet bis zu den **Weihnachtsferien**
+
+## Leit-Satz
+
+In diesem Zeitraum möchte ich mein Wissen vertiefen und grössere Programme schreiben.
+
+
+## Arbeitspakete für 31.10.2023
+[ ] Ich möchte ein Tic Tac Toe Spiel programmieren.
