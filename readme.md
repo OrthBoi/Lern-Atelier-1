@@ -99,5 +99,11 @@ Das Vokabeln Programm habe ich nicht programmiert, stattdessen habe ich bei mein
 Beim Tic Tac Toe Programm habe ich keine Farbe hinzugefügt, weil mein Code sonst grosse veränderungen bräuchte und das ein grosser Zeitverbrauch wäre, stattdessen habe ich herausgefunden wie ich die Textfarbe verändern kann. Nun werde ich das im nächsten Programm mit einbeziehen, falls es gebraucht wird. 
 
 ## Arbeitspakete für 14.11.2023
-- [ ] Ich möchte das Vokabel Programm von letzter Woche programmieren, man soll x Vokbeln eingeben können und diese werden in zufälliger Reihenfolge abgefragt. Falsche Antworten werden gespeichert und ein Log wird am Ende ausgegeben mit User Eingeben und richtigen Eingaben. Es soll ausserdem eine Sicherheitsfunktion geben, damit man keine Zahlen eingeben kann.  
+- [x] Ich möchte das Vokabel Programm von letzter Woche programmieren, man soll x Vokbeln eingeben können und diese werden in zufälliger Reihenfolge abgefragt. Falsche Antworten werden gespeichert und ein Log wird am Ende ausgegeben mit User Eingeben und richtigen Eingaben. Es soll ausserdem eine Sicherheitsfunktion geben, damit man keine Zahlen eingeben kann.  
       
+Reflexion:
+Ich habe das Programm fertig programmiert. Alles funktioniert einwandfrei, so wie eich es mir vorgestellt habe. Ich habe jedoch sehr komplexe Methoden verwendet für die Sicherheitsfunktion, sodass man keine Zahlen als Sprache oder Vokabeln nehmen kann. Somit sieht mein Code sehr chaotisch aus. In meiner Freizeiz werde ich mein Programm überarbeiten und den Code vereinfachen (52 Wörter)
+
+## Arbeitspakete für 21.11.2023
+- [ ] Momentan bearbeite ich das Modul 162 und fühle mich noch nicht all zu sicher mit den Excel Funktionen. Deswegen will ich mir ein paar Tutorials anschauen um einen generalen Überblick zu bekommen
+- [ ] Ich möchte mit meinem neuen Wissen das ich im vorherigen Arbeitspaket erhalten habe, ein paar Aufgaben vom Modul 162 lösen.(6903, 6904 und wenn ich genügend Zeit habe 6905)
