@@ -104,6 +104,15 @@ Beim Tic Tac Toe Programm habe ich keine Farbe hinzugefügt, weil mein Code sons
 Reflexion:
 Ich habe das Programm fertig programmiert. Alles funktioniert einwandfrei, so wie eich es mir vorgestellt habe. Ich habe jedoch sehr komplexe Methoden verwendet für die Sicherheitsfunktion, sodass man keine Zahlen als Sprache oder Vokabeln nehmen kann. Somit sieht mein Code sehr chaotisch aus. In meiner Freizeiz werde ich mein Programm überarbeiten und den Code vereinfachen (52 Wörter)
 
-## Arbeitspakete für 21.11.2023
-- [ ] Momentan bearbeite ich das Modul 162 und fühle mich noch nicht all zu sicher mit den Excel Funktionen. Deswegen will ich mir ein paar Tutorials anschauen um einen generalen Überblick zu bekommen
-- [ ] Ich möchte mit meinem neuen Wissen das ich im vorherigen Arbeitspaket erhalten habe, ein paar Aufgaben vom Modul 162 lösen.(6903, 6904 und wenn ich genügend Zeit habe 6905)
+## Arbeitspakete für 28.11.2023
+- [x] Momentan bearbeite ich das Modul 162 und fühle mich noch nicht all zu sicher mit den Excel Funktionen. Deswegen will ich mir ein paar Tutorials anschauen um einen generalen Überblick zu bekommen
+- [x] Ich möchte mit meinem neuen Wissen das ich im vorherigen Arbeitspaket erhalten habe, ein paar Aufgaben vom Modul 162 lösen.(6903, 6904 und wenn ich genügend Zeit habe 6905)
+
+Reflexion:
+Ich habe einen 30 Minutigen Crashkurs zu Excel angeschaut, wobei ich sehr viele hilfreiche neue Funktionen gelernt habe, die mir bei meiner zukünftigen Arbeit hilfreich sein werden. Ich habe mich in den Funktionen vertieft und weiss jetz wie ich Daten sortieren kann. Ich habe die Aufgaben vom Modul 162 revidiert und habe jetz einen klaren Überblick über das Thema (66 Wörter)
+
+
+## Arbeitspakete für 5.12.2023
+- [ ] Ich möchte mich in WinForms vertiefen und die Basics verstehen.
+- [ ] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
+- [ ] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
