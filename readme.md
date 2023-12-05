@@ -116,3 +116,11 @@ Ich habe einen 30 Minutigen Crashkurs zu Excel angeschaut, wobei ich sehr viele 
 - [ ] Ich möchte mich in WinForms vertiefen und die Basics verstehen.
 - [ ] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
 - [ ] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
+
+Reflexion: Ich habe heute mich mit WinForms beschäftigt. Es ist etwas neues und sehr kompliziert weswegen ich mich noch mehr damit beschäftigen werde. Die Programme konnte ich somit auch nicht schreiben.
+
+
+## Arbeitspakete für 12.12.2023
+- [ ] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
+- [ ] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
+- [ ] Ich möchte im adventOfCode die Aufgabe lösen.
