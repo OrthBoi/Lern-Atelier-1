@@ -121,6 +121,9 @@ Reflexion: Ich habe heute mich mit WinForms beschäftigt. Es ist etwas neues und
 
 
 ## Arbeitspakete für 12.12.2023
-- [ ] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
-- [ ] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
+- [x] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
+- [x] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
 - [ ] Ich möchte im adventOfCode die Aufgabe lösen.
+
+Reflexion: Heute habe ich mich mit Winforms beschäftigt und die Basics gelernt. Ich habe ausserdem an meinen Programmen Weitergeabreitet und diese Optimiert. 
+
