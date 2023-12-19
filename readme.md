@@ -113,17 +113,45 @@ Ich habe einen 30 Minutigen Crashkurs zu Excel angeschaut, wobei ich sehr viele 
 
 
 ## Arbeitspakete für 5.12.2023
-- [ ] Ich möchte mich in WinForms vertiefen und die Basics verstehen.
+- [x] Ich möchte mich in WinForms vertiefen und die Basics verstehen.
 - [ ] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
 - [ ] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
 
 Reflexion: Ich habe heute mich mit WinForms beschäftigt. Es ist etwas neues und sehr kompliziert weswegen ich mich noch mehr damit beschäftigen werde. Die Programme konnte ich somit auch nicht schreiben.
 
 
-## Arbeitspakete für 12.12.2023
-- [x] Ich möchte ein einfaches Programm in WinForms schreiben das Hello World ausgibt wenn man auf einen Knopf klickt
-- [x] Ich möchte ein einfaches Programm schreiben, das den User nach 2 Zahlen fragt und nach einer Rechenform ( + - : * ) und diese dann ausgibt.
-- [ ] Ich möchte im adventOfCode die Aufgabe lösen.
+## Arbeitspakete für 12.12.2023 und 19.12.2023
+- [x] Ich möchte mich weiterhin mit WinForms beschäftigen und setzte mein Fokus darauf die Basics sehr gut zu verstehen, damit ich attraktive Programme schreiben kann.
 
-Reflexion: Heute habe ich mich mit Winforms beschäftigt und die Basics gelernt. Ich habe ausserdem an meinen Programmen Weitergeabreitet und diese Optimiert. 
+Reflexion 12.12.2023: Heute habe ich mich mit Winforms beschäftigt und Teil der Basics gelernt. Ich habe ausserdem an meinen anderen Programmen die ich schon abgeschlossen habe weitergeabreitet und diese mit meinen neuen Wissen optimiert. 
+Reflexion 19.12.2023: Ich habe meine Kenntnise mit WinForms erweitert und kenne nun die Basics um einfache Programme zu erstellen.
+
+
+## Reflexion Projekt:
+In dieser Lernperiode habe ich mein Grundwissen von C# erweitert und meine Programme wurden komplexer. Ich habe ausserdem viele kosmetische funktionen gelernt und schreibe meinen Code ein bisschen sauberer. In dieser Lernperiode habe ich sehr viel Programmiert, manchmal aber auch an den Modulen gearbeitet. Insgesamt gab es 7 Arbeitstage. 
+Am ersten Tag habe ich ein einfaches TicTacToe Spiel programmiert, ich lernte somit wie ich Variabeln in Text Strings ausgeben kann: Console.Write($"Hallo das ist ein {string}!") 
+Am zweiten Tag habe ich einen Taschenrechner Programmiert, man gibt 2 Zahlen ein und er speichert das Ergebniss, danach rechnet man mit diesem Ergebniss weiter was nicht sehr optimal ist. 
+Am dritten Tag habe ich einen klugen Vokabel Trainer programmiert womit man effektiv lernen kann. Man gibt die Anzahl der Vocis ein und die Sprache der Vocis und wird abgefragt, am Ende sagt das Programm wie viele man richtig beantwortet hat.
+Am vierten Tag habe ich am Modul 162 gearbeitet und mich mit Excel beschäftigt.
+Am fünften Tag habe ich mich das erste mal mit WinForms auseinandergesetzt und einen groben Überblick bekommen, habe aber wenig verstanden
+Am sechsten und siebten Tag habe ich mich wieder mit WinForms beschäftigt und die Basics gelernt.
+
+Ich habe einiges gemacht in dieser Lernperiode, allerdings lasse ich mich immernoch von meinen Kollegen ablenken, wir verstehen und sehr gut und haben viel Spass, aber deswegen leidet meine produktivität also werde ich mich nur noch in Pausen mit Ihnen unterhalten. 
+
+
+# Grob Planung
+
+**Maxim Kohanov**
+
+Diese Grobe Planung giltet bis zu den **Sportferien**
+
+## Leit-Satz
+
+In diesem Zeitraum möchte ich mich mit WinForms und Objekt Orientierten Programmieren auseinander setzten indem ich ein kleines Projekt mache. Ich möchte mithilfe eine ToDo App programmieren mit folgenden Anforderungen: ToDo's hinzufügen, suchen, bearbeiten, löschen. Wenn ich übrige Zeit habe möchte ich ausserdem eine Datenbank anschliessen sodass ich die Informationen speichern kann.
+
+
+## Arbeitspakete für 9.01.2024
+- [ ] Ich möchte ein PAP erstellen
+- [ ] Ich möchte eine Skizze von der OOP erstellen
+- [ ] Ich möchte das User Interface designen und erstellen
 
